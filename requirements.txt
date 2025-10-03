@@ -1,5 +1,7 @@
 streamlit==1.28.0
 pandas==2.1.0
 plotly==5.15.0
+fpdf2==2.7.4
+kaleido==0.2.1
 numpy==1.24.0
-fpdf2==2.7.5
+Pillow==10.0.0
